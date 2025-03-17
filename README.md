@@ -15,6 +15,9 @@
   <a href="https://threejs.org/"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/1200px-Three.js_Icon.svg.png" alt="java" width="40" height="40" style="max-width: 100%;"> 
   </a>
+  <a href="https://r3f.docs.pmnd.rs/getting-started/introduction"> 
+    <img src="https://graffersid.com/wp-content/w3-webp/uploads/2024/07/React-three-fiber-icon-1024x576.pngw3.webp" alt="java" width="40" height="40" style="max-width: 100%;"> 
+  </a>
   <a href="https://www.java.com"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;"> 
   </a>
