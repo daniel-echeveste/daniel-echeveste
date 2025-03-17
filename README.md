@@ -43,6 +43,7 @@
     <img src="https://img.freepik.com/free-icon/wordpress_318-183439.jpg" alt="wordpress" width="40" height="40" style="max-width: 100%;"> 
   </a> 
 </p>
+
 ### Backend Development
 <p align="center" dir="auto"> 
 
