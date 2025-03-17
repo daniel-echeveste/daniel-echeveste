@@ -28,6 +28,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> 
   </a>
+   <a href="https://www.typescriptlang.org/"> 
+    <img src="https://cdn3d.iconscout.com/3d/free/preview/free-typescript-3d-icon-download-in-png-blend-fbx-gltf-file-formats--microsoft-logo-angular-language-javascript-static-type-coding-lang-pack-logos-icons-7577992.png?f=webp&h=700" alt="javascript" width="40" height="40" style="max-width: 100%;"> 
+  </a>
   <a href="https://react.dev"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40" style="max-width: 100%;"> 
   </a>
