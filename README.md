@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hi there 👋, I'm Daniel</h1>
   <h3 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&center=true&lines=Multi-Platform+App+Developer;Videogame,+XR+and+AI+Student;Gran+Canaria%2C+Canary+Islands%2C+Spain;Always+learning+new+things">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&center=true&lines=Multi-Platform+App+Developer;Gran+Canaria%2C+Canary+Islands%2C+Spain;Always+learning+new+things">
   </h3>
 
   <h4 align="center" dir="auto">
