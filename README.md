@@ -19,12 +19,6 @@
   <a href="https://r3f.docs.pmnd.rs/getting-started/introduction"> 
     <img src="https://graffersid.com/wp-content/w3-webp/uploads/2024/07/React-three-fiber-icon-1024x576.pngw3.webp" alt="java" width="40" height="40" style="max-width: 100%;"> 
   </a>
-  <a href="https://www.java.com"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;"> 
-  </a>
-  <a href="https://www.mysql.com/"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width:100%;"> 
-  </a> 
   <a href="https://www.w3.org/html/"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> 
   </a> 
@@ -37,14 +31,33 @@
   <a href="https://react.dev"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40" style="max-width: 100%;"> 
   </a>
-  <a href="https://www.w3schools.com/php/"> 
-    <img src="https://user-images.githubusercontent.com/85161810/190901853-abd1e11c-73c4-4f94-9d01-26b79c72e736.png" alt="php" width="40" height="40" style="max-width: 100%;"> 
-  </a>
   <a href="https://tailwindcss.com"> 
     <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/31/tailwind.png" alt="php" width="40" height="40" style="max-width: 100%;"> 
   </a>
   <a href="https://getbootstrap.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> 
   </a> 
+  <a href="https://developer.android.com"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="max-width: 100%;"> 
+  </a> 
+  <a href="https://wordpress.com"> 
+    <img src="https://img.freepik.com/free-icon/wordpress_318-183439.jpg" alt="wordpress" width="40" height="40" style="max-width: 100%;"> 
+  </a> 
+</p>
+### Backend Development
+<p align="center" dir="auto"> 
+
+  <a href="https://www.java.com"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;"> 
+  </a>
+  <a href="https://www.mysql.com/"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width:100%;"> 
+  </a> 
+  <a href="https://react.dev"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40" style="max-width: 100%;"> 
+  </a>
+  <a href="https://www.w3schools.com/php/"> 
+    <img src="https://user-images.githubusercontent.com/85161810/190901853-abd1e11c-73c4-4f94-9d01-26b79c72e736.png" alt="php" width="40" height="40" style="max-width: 100%;"> 
+  </a>
   <a href="https://developer.android.com"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="max-width: 100%;"> 
   </a> 
