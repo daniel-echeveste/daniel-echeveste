@@ -15,9 +15,6 @@
   <a href="https://www.java.com"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;"> 
   </a>
-  <a href="https://www.python.org"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%">   
-  </a>
   <a href="https://www.mysql.com/"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width:100%;"> 
   </a> 
@@ -30,23 +27,11 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> 
   </a>
-  <a href="https://nodejs.org/en"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="nodejs" width="50" height="40" style="max-width: 100%;"> 
-  </a>
   <a href="https://react.dev"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40" style="max-width: 100%;"> 
   </a>
-  <a href="https://astro.build"> 
-    <img src="https://astro.js.org/astro.png" alt="astro" width="40" height="40" style="max-width: 100%;"> 
-  </a>
-  <a href="https://svelte.dev"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" alt="svelte" width="40" height="40" style="max-width: 100%;"> 
-  </a>
   <a href="https://www.w3schools.com/php/"> 
     <img src="https://user-images.githubusercontent.com/85161810/190901853-abd1e11c-73c4-4f94-9d01-26b79c72e736.png" alt="php" width="40" height="40" style="max-width: 100%;"> 
-  </a>
-  <a href="https://laravel.com"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="php" width="40" height="40" style="max-width: 100%;"> 
   </a>
   <a href="https://tailwindcss.com"> 
     <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/31/tailwind.png" alt="php" width="40" height="40" style="max-width: 100%;"> 
