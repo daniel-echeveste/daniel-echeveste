@@ -5,7 +5,7 @@
   </h3>
 
   <h4 align="center" dir="auto">
-     Get to now me better in <a href="http://hermes-ia.com/" color="333B4B" target="_blank">My Portfolio</a> 
+     Get to now me better in <a href="http://daniel-echeveste.github.io/" color="333B4B" target="_blank">My Portfolio</a> 
   </h4>
 </div>
 
